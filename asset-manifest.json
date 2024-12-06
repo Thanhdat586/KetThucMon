@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KetThucMon/static/css/main.e33d1aa8.css",
+    "main.js": "/KetThucMon/static/js/main.26f64a3f.js",
+    "index.html": "/KetThucMon/index.html",
+    "main.e33d1aa8.css.map": "/KetThucMon/static/css/main.e33d1aa8.css.map",
+    "main.26f64a3f.js.map": "/KetThucMon/static/js/main.26f64a3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e33d1aa8.css",
+    "static/js/main.26f64a3f.js"
+  ]
+}
